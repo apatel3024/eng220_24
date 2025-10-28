@@ -1,0 +1,5 @@
+{
+  "categories": ["Housing", "Food", "Transportation", "Healthcare", "Entertainment"],
+  "costs": [1200, 450, 300, 200, 150],
+  "expenses": [/* 100 random values between 100-1500, or your cleaned data */]
+}
